@@ -1,7 +1,7 @@
 ## Whats Up!! I'm the Bispooo!
 
 
-### Data Analyst ready for the job market
+### Data Analyst
 
 About me: I want to grow in my career to take care of my family, 
 I want to improve as a professional and as a person. 
