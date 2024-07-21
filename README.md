@@ -1,4 +1,4 @@
-# WhaZap😁!!  I'm the Bispo!⚪
+# Hey!!  I'm the Bispo!⚪
 ## Data Analyst
 
 Languages: EN / PT-BR 
