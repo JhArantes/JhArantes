@@ -11,10 +11,9 @@
 ![Python](https://img.shields.io/badge/Python-Black?style=for-the-badge&logo=python&logoColor=green&color=black)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql)
 
-![Flask](https://img.shields.io/badge/Flask-red?style=for-the-badge&logo=flask&labelColor=black)
 
+![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logoColor=black&labelColor=black)
+![Excel](https://img.shields.io/badge/Excel-black?style=for-the-badge&labelColor=black)
 
-![Power BI](https://img.shields.io/badge/Power-BI-yellow?style=for-the-badge&labelColor=black)
-![Excel](https://img.shields.io/badge/Excel-GREEN?style=for-the-badge&labelColor=black)
 
 
