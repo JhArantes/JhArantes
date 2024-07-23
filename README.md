@@ -1,4 +1,4 @@
-# Whats Up!!  I'm Bispo!
+# Whats Up!!  ![Static Badge](https://img.shields.io/badge/Bispo-white?style=social&label=I'm&labelColor=black)!
 ## Data Analyst
 
 #### Languages:
