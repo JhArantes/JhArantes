@@ -1,8 +1,13 @@
 # Whats Up!!  I'm Bispo!
 ## Data Analyst
 
-Languages: EN / PT-BR 
+#### Languages:
+![Static Badge](https://img.shields.io/badge/Portugu%C3%AAs-green?style=for-the-badge&label=BR&labelColor=black)
+![Static Badge](https://img.shields.io/badge/English-purple?style=for-the-badge&label=EN&labelColor=black)
+##
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### Tools:
+![Python](https://img.shields.io/badge/Python-Black?style=for-the-badge&logo=python&logoColor=green&color=black)
+![Static Badge](https://img.shields.io/badge/SQL-orange?style=for-the-badge&label=DB&labelColor=black)
+
