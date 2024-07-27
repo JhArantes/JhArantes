@@ -10,7 +10,7 @@
   <img height= 60 width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img height= 60 width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img height= 60 width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img height= 60 width= 70 src="../img/logo_powerbi.png" />
+  <img height= 60 width= 70 src="../img/Logo_PowerBi.png" />
 </div>
 
 
