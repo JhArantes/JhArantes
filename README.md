@@ -1,10 +1,6 @@
 # Whats Up!! I'm Bispo!
 ## Data Analyst
 
-![PT-BR](https://img.shields.io/badge/Portugu%C3%AAs-green?style=for-the-badge&label=BR&labelColor=black)
-![EN](https://img.shields.io/badge/English-purple?style=for-the-badge&label=EN&labelColor=black)
-##
-
 ## Tools:
 - <div>
   <img height= 60 width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
