@@ -1,7 +1,7 @@
 # Whats Up!! I'm Bispo!
 ## Data Analyst
 
-## Tools:
+
 - <div>
   <img height= 60 width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img height= 60 width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
