@@ -5,8 +5,8 @@
 - <div>
   <img height= 60 width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img height= 60 width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img height= 60 width= 48 src="./Img/Pbix_Logo.png">
-  <img height= 60 width= 60 src="./Img/Excel_logo.png" />
+  <img height= 60 width= 40 src="./Img/Pbix_Logo.png">
+  <img height= 60 width= 55 src="./Img/Excel_logo.png" />
   
 </div>
           
