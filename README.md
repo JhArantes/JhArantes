@@ -22,7 +22,7 @@ Whats Up! Eu sou o **Bispo** e atuo há mais de **2 anos na área de dados**, co
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-João%20Harv%20Bispo-blue?style=flat-square&logo=firefox)](https://joaoharvbispo.github.io)  
 ## 🐍 Linguagens & Ferramentas Principais
-
+<div>
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
             
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -38,8 +38,10 @@ Whats Up! Eu sou o **Bispo** e atuo há mais de **2 anos na área de dados**, co
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
             
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<div/>
 
 ### 🧰 Stack Completa
+<div>
   <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
@@ -61,7 +63,7 @@ Whats Up! Eu sou o **Bispo** e atuo há mais de **2 anos na área de dados**, co
   <img width=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
   <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
-
+<div/>
 ---
 
 ## 🛠️ Core Skills
