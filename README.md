@@ -11,8 +11,6 @@
 
 Olá! Eu sou o **Bispo** e atuo há mais de **2 anos na área de dados**, com foco em transformar dados brutos em soluções estratégicas.
 
-Trabalho com:
-
 - 📦 **Armazenamento, tratamento e carregamento de dados**
 - 🔁 **Criação e manutenção de pipelines e processos ETL**
 - 🤖 **Automatizações com Python e ferramentas no-code**
@@ -20,47 +18,26 @@ Trabalho com:
 
 ---
 
-## 🌍 Impacto Real
-
-Tenho orgulho de ter participado de projetos que:
-
-- 🏛️ Apoiaram **a criação de políticas públicas**
-- 🧮 Analises de **dados populacionais**
-- 🗳️ Contribuíram com **estratégias eleitorais baseadas em dados**
-
-Essas iniciativas impactaram diretamente decisões governamentais e resultados de campanhas, com base em **dados confiáveis, pipelines robustos e BI estratégico**.
-
-
----
-
-## :star2: **Portfolio**
 > **Data-driven solutions** with measurable impact. Let’s collaborate!  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-João%20Harv%20Bispo-blue?style=flat-square&logo=firefox)](https://joaoharvbispo.github.io)  
-
 ## 🐍 Linguagens & Ferramentas Principais
 
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+            
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
- <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
 
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
 
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
-
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-          
-          
-
-
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-          
-
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+            
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+            
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
 ### 🧰 Stack Completa
   <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
@@ -86,6 +63,7 @@ Essas iniciativas impactaram diretamente decisões governamentais e resultados d
   <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
 
 ---
+
 ## 🛠️ Core Skills
 
 ### ⚙️ Engenharia de Dados
@@ -101,9 +79,6 @@ Essas iniciativas impactaram diretamente decisões governamentais e resultados d
 ### 🧰 Ferramentas & Workflow
 - Git & GitHub, Trello, Jira  
 - Power BI, N8N
-
-
-
 
 ---
 
@@ -145,7 +120,6 @@ Essas iniciativas impactaram diretamente decisões governamentais e resultados d
 
 ---
 
-
 ## 🧩 Palavras-chave
 
 `Python` `SQL` `ETL/ELT` `Data Engineering` `Data Modeling` `Pipelines` `Automation`  
@@ -154,22 +128,13 @@ Essas iniciativas impactaram diretamente decisões governamentais e resultados d
 `Public Policy` `Electoral Data` `Social Impact` `Sustainability`  
 `Python Developer` `Data-Driven` `Big Data` `Analytics`
 
-
 ---
 
 ## 🌐 Vamos nos Conectar!
-## 🌐 Vamos nos Conectar!
 
 📧 **E-mail:** joaoharv@gmail.com  
 
-## 🌐 Vamos nos Conectar!
-
-📧 **E-mail:** joaoharv@gmail.com  
-
-[LinkedIn](https://www.linkedin.com/in/joaoharv/)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="50"/>
-
-📺 [YouTube — Canal Bispo](#) *(adicione o link assim que estiver pronto)*
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="60"/>
 
 📺 [YouTube — Canal Bispo](#) *(adicione o link assim que estiver pronto)*
 
