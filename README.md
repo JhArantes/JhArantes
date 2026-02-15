@@ -1,73 +1,51 @@
-<h1 align="center">🚀 Bem-vindo ao meu GitHub!</h1>
+# Olá, eu sou o [Seu Nome] 👋
 
-<p align="center">
-  <strong>João Henrique (Bispo)</strong><br>
-  <em>Ciência de Dados | Machine Learn |</em>
-</p>
+### Cientista de Dados em Formação | Entusiasta de Cibersegurança & Engenharia de Dados
 
----
-
-## 🎯 Sobre mim
-
-Whats Up! Eu sou o **Bispo** e atuo há mais de **2 anos na área de dados**, com foco em transformar dados brutos em soluções estratégicas.
-
-- 📦 **Armazenamento, tratamento e carregamento de dados**
-- 🤖 **Criação e manutenção de Modelos de Machine Learn**
-- ☁️ **Engenharia de dados voltada para Big Data e Cloud**
+Sou um apaixonado por transformar dados brutos em decisões estratégicas. Atualmente, foco no domínio do ecossistema Python para análise preditiva, automação de pipelines e integração com ambientes Cloud. Acredito que a ciência de dados só atinge seu potencial máximo quando unida a um **storytelling** envolvente e práticas sólidas de **segurança**.
 
 ---
 
-> **Data-driven solutions** with measurable impact. Let’s collaborate!  
+## 🛠️ Minhas Stacks & Ferramentas
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-João%20Harv%20Bispo-blue?style=flat-square&logo=firefox)](https://joaoharvbispo.github.io)  
-## 🐍 Linguagens & Ferramentas Principais
-<div>
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-            
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+### 📊 Ciência de Dados & Análise
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Estatística](https://img.shields.io/badge/Estatística-00599C?style=for-the-badge&logo=mathworks&logoColor=white)
+![Data Viz](https://img.shields.io/badge/Data_Viz-FF6F00?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+### ⚙️ Engenharia de Dados & Infra
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-blue?style=for-the-badge)
 
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+### ☁️ Cloud & Segurança
+![Cloud](https://img.shields.io/badge/Cloud_Infra-☁️-blue?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cibersegurança-🛡️-red?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
+### 🚀 Outros & Gestão
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230a4595.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-            
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-            
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-<div/>
-
-### 🧰 Stack Completa
-<div>
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-  
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
-
-
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
-
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" />
-
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img width=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
-<div/>
 ---
 
-## 🌐 Vamos nos Conectar!
+## 📈 Sobre Mim
 
-📧 **E-mail:** joaoharv@gmail.com  
+- 🎓 **Foco atual:** Manutenção de dashboards, pipelines de dados e integração Cloud.
+- 🔐 **Interesses:** Forte inclinação para estatística aplicada e segurança cibernética.
+- 💡 **Filosofia:** Comprometido com as boas práticas de desenvolvimento e entrega de valor real para o negócio através de insights acionáveis.
+- 🎯 **Objetivo:** Oportunidade de nível Júnior ou Estágio para resolver problemas complexos com tecnologia.
 
+---
 
+## 📫 Vamos conversar?
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
