@@ -15,7 +15,7 @@
 
 ## 🧠 Sobre Mim
 
-Sou um profissional em com foco em **ciência de dados**, **pipelines de dados robustos** e **soluções orientadas a resultados reais**. Tenho interesse genuíno em como estatística e machine learning podem resolver problemas complexos — e uma curiosidade especial por **cibersegurança** e **infraestrutura cloud**.
+Sou um profissional com foco em **ciência de dados**, **pipelines de dados robustos** e **soluções orientadas a resultados reais**. Tenho interesse genuíno em estatística e programação pois podem resolver problemas complexos — e uma curiosidade especial por **cibersegurança** e **infraestrutura cloud**.
 
 Atualmente buscando minha primeira oportunidade como **Cientista ou Analista de Dados Júnior / Estágio**, onde eu possa contribuir e crescer ao mesmo tempo.
 
