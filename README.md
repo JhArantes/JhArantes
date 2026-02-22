@@ -2,9 +2,9 @@
 
 # Olá, eu sou o João Henrique 👋
 
-### 🎯 Ciência de Dados · Machine Learning · Engenharia de Dados · Estatística
+### 🎯 Ciência de Dados · Machine Learning · Estatística · Engenharia de Dados
 
-*Não é mágica, é estatística.*
+*Não é mágica, é estatística!*
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaoharv)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoharvl@gmail.com)
@@ -59,46 +59,9 @@ joao = {
 ![Jira](https://img.shields.io/badge/jira-%230a4595.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhArantes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhArantes&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-> *Substitua os cards abaixo com os seus repositórios reais!*
-
-<div align="center">
-
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=JhArantes&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/NOME_DO_REPO_1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=JhArantes&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/NOME_DO_REPO_2)
-
-</div>
-
----
-
-## 📫 Vamos Conversar?
-
-Aberto a oportunidades, colaborações e troca de ideias sobre dados, tecnologia e segurança. Me chama!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaoharv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoharv@gmail.com)
-
 ---
 
 *"Sem dados, você é apenas mais uma pessoa com uma opinião." — W. Edwards Deming*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=JhArantes&color=blue&style=flat-square)
 
 </div>
