@@ -23,7 +23,7 @@ Atualmente buscando minha primeira oportunidade como **Cientista de Dados Júnio
 joao = {
     "foco":       ["Ciência de Dados", "Machine Learning", "Engenharia de Dados" ],
     "interesses": ["Estatística Aplicada", "Cibersegurança", "Cloud", "Engenharia de Software"],
-    "buscando":   "Aprendizado continuo e comunicação clara",
+    "buscando":   "Aprendizado contínuo e comunicação eficaz",
     "filosofia":  "*Não é mágica, é estatística!*"
 }
 ```
