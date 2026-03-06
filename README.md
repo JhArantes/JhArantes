@@ -22,7 +22,7 @@ Atualmente buscando minha primeira oportunidade como **Cientista de Dados Júnio
 ```python
 joao = {
     "foco":       ["Ciência de Dados", "Machine Learning", "Engenharia de Dados" ],
-    "interesses": ["Estatística Aplicada", "Cibersegurança", "Cloud", "Engenharia de Software],
+    "interesses": ["Estatística Aplicada", "Cibersegurança", "Cloud", "Engenharia de Software"],
     "buscando":   "Aprendizado continuo e comunicação clara",
     "filosofia":  "*Não é mágica, é estatística!*"
 }
