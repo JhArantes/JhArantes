@@ -15,7 +15,7 @@
 
 ## 🧠 Sobre Mim
 
-Cientista de Dados apaixonado pelo ciclo de vida completo dos dados, desde pipelines ETL robustos até IA preditiva e Redes Neurais. Experiente no desenvolvimento de modelos de Machine Learning e analises estatísticas para solucionar problemas do mundo real. 
+Cientista de Dados apaixonado pelo ciclo de vida completo dos dados, desde pipelines ETL robustos até IA classificadora e Redes Neurais. Experiente no desenvolvimento de modelos de Machine Learning e analises estatísticas para solucionar problemas do mundo real. 
 
 Comprometido com as melhores práticas de desenvolvimento de software e comunicação clara em workshops técnicos com clientes.
 Atualmente buscando minha primeira oportunidade como **Cientista de Dados Júnior / Estágio**, onde eu possa contribuir e crescer ao mesmo tempo.
