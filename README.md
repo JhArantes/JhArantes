@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o João Henrique 👋
+# Hi, my name is João Henrique 👋
 
-### 🎯 Ciência de Dados · Machine Learning · Estatística · Engenharia de Dados · Engenharia de Software
+### 🎯 Ciência de Dados · Machine Learning · Estatística · Engenharia de Software
 
 *Não é mágica, é estatística!*
 
@@ -15,18 +15,10 @@
 
 ## 🧠 Sobre Mim
 
-Cientista de Dados apaixonado pelo ciclo de vida completo dos dados, desde pipelines ETL robustos até IA preditiva e Redes Neurais. Experiente no desenvolvimento de modelos de Machine Learning e analises estatísticas para solucionar problemas do mundo real.
+Cientista de Dados apaixonado pelo ciclo de vida completo dos dados, desde pipelines ETL robustos até IA preditiva e Redes Neurais. Experiente no desenvolvimento de modelos de Machine Learning e analises estatísticas para solucionar problemas do mundo real. 
+
 Comprometido com as melhores práticas de desenvolvimento de software e comunicação clara em workshops técnicos com clientes.
 Atualmente buscando minha primeira oportunidade como **Cientista de Dados Júnior / Estágio**, onde eu possa contribuir e crescer ao mesmo tempo.
-
-```python
-joao = {
-    "foco":       ["Ciência de Dados", "Machine Learning", "Engenharia de Dados" ],
-    "interesses": ["Estatística Aplicada", "Cibersegurança", "Cloud", "Engenharia de Software"],
-    "buscando":   "Aprendizado contínuo e comunicação eficaz",
-    "filosofia":  "*Não é mágica, é estatística!*"
-}
-```
 
 ---
 
