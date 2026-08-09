@@ -23,7 +23,7 @@
 
 ## ABOUT ME
 
-Sou Cientista de Dados e Desenvolvedor Python, com foco em Machine Learning, Deep Learning, ETL e Análise de Dados. Minha certificação AWS Cloud Practitioner sustenta um trabalho construído sobre nuvem, dados e modelos aplicados a problemas reais.
+Goiano apaixonado por tecnologia estou me graduando em Ciência de dados e Inteligência Artificial pela FIAP sou Desenvolvedor Python com foco em Machine Learning, Deep Learning, ETL e Análise de Dados. Minha certificação AWS Cloud Practitioner sustenta um trabalho construído sobre nuvem, dados e modelos aplicados a problemas reais.
 
 Um dos projetos meus projetos é um classificador multiclasse de imagens de satélite, desenvolvido com PyTorch e redes neurais convolucionais. 
 
