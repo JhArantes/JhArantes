@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-joaoharv-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1117" />
 </a>
 &nbsp;
-<a href="https://github.com/joaoharv">
-  <img src="https://img.shields.io/badge/GitHub-joaoharv-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1117" />
-</a>
-&nbsp;
 <a href="mailto:joaoharv@gmail.com">
   <img src="https://img.shields.io/badge/Email-joaoharv%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1117" />
 </a>
